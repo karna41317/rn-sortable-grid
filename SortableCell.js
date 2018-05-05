@@ -1,4 +1,4 @@
-import React, { PropTypes, Component } from "react"
+import React, { Component } from "react"
 import PropTypes from 'prop-types'
 import { View, Text, StyleSheet, PanResponder, Animated } from "react-native"
 import { cellScale, cellAnimationTypes, cellTranslation } from "./constants"
